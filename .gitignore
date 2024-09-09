@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Custom
-csvs/
+raw_csvs/
